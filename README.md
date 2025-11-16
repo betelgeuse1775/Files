@@ -1,1 +1,3 @@
-logo<img width="1024" height="514" alt="ChatGPT_im_croped" src="https://github.com/user-attachments/assets/82ba5fb3-2467-4882-994d-2c84e6501ccf" />
+logo
+
+<img width="139" height="70" alt="ChatGPT_70px" src="https://github.com/user-attachments/assets/ca2f0d69-03c5-4149-bd30-de0e02316203" />
